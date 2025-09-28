@@ -1,0 +1,1 @@
+<?php include 'inc/header.php'; ?><main><h2>Donation Cancelled</h2><p>Your donation was cancelled.</p></main><?php include 'inc/footer.php'; ?>

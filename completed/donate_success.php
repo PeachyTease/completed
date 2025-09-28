@@ -1,0 +1,1 @@
+<?php include 'inc/header.php'; ?><main><h2>Donation Success</h2><p>Thank you! Your donation was successful (sandbox).</p></main><?php include 'inc/footer.php'; ?>

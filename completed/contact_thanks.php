@@ -1,0 +1,1 @@
+<?php include 'inc/header.php'; ?><main><h2>Thanks</h2><p>Thanks for your message — we'll get back soon.</p></main><?php include 'inc/footer.php'; ?>
